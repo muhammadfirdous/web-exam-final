@@ -1,6 +1,6 @@
 # Country Information Finder 🌍
 
-This project is a **React-based web application** that allows users to search for detailed information about countries. It provides a clean and engaging interface to explore key information like the country's flag, capital, population, languages, and more. Click here to view: https://web-exam-final.vercel.app/
+This project is a **React-based web application** that allows users to search for detailed information about countries. It provides a clean and engaging interface to explore key information like the country's flag, capital, population, languages, and more. Here is the link to view: https://web-exam-final.vercel.app/
 
 ---
 
